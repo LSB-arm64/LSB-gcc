@@ -1,0 +1,24 @@
+all
+	/tset/lsb.libatomic.os/atomic-op/atomic-op-1/T.atomic-op-1
+	/tset/lsb.libatomic.os/atomic-op/atomic-op-2/T.atomic-op-2
+	/tset/lsb.libatomic.os/atomic-op/atomic-op-3/T.atomic-op-3
+	/tset/lsb.libatomic.os/atomic-op/atomic-op-4/T.atomic-op-4
+	"/tset/lsb.libatomic.os/atomic-op/atomic-op-5/T.atomic-op-5"
+	/tset/lsb.libatomic.os/atomic-compare-exchange/atomic-compare-exchange-1/T.atomic-compare-exchange-1
+	/tset/lsb.libatomic.os/atomic-compare-exchange/atomic-compare-exchange-2/T.atomic-compare-exchange-2
+	/tset/lsb.libatomic.os/atomic-compare-exchange/atomic-compare-exchange-3/T.atomic-compare-exchange-3
+	/tset/lsb.libatomic.os/atomic-compare-exchange/atomic-compare-exchange-4/T.atomic-compare-exchange-4
+	/tset/lsb.libatomic.os/atomic-exchange/atomic-exchange-1/T.atomic-exchange-1
+	/tset/lsb.libatomic.os/atomic-exchange/atomic-exchange-2/T.atomic-exchange-2
+	/tset/lsb.libatomic.os/atomic-exchange/atomic-exchange-3/T.atomic-exchange-3
+	/tset/lsb.libatomic.os/atomic-exchange/atomic-exchange-4/T.atomic-exchange-4
+	/tset/lsb.libatomic.os/atomic-load/atomic-load-1/T.atomic-load-1
+	/tset/lsb.libatomic.os/atomic-load/atomic-load-2/T.atomic-load-2
+	/tset/lsb.libatomic.os/atomic-load/atomic-load-3/T.atomic-load-3
+	/tset/lsb.libatomic.os/atomic-load/atomic-load-4/T.atomic-load-4
+	/tset/lsb.libatomic.os/atomic-store/atomic-store-1/T.atomic-store-1
+	/tset/lsb.libatomic.os/atomic-store/atomic-store-2/T.atomic-store-2
+	/tset/lsb.libatomic.os/atomic-store/atomic-store-3/T.atomic-store-3
+	/tset/lsb.libatomic.os/atomic-store/atomic-store-4/T.atomic-store-4
+	/tset/lsb.libatomic.os/atomic-generic/atomic-generic-1/T.atomic-generic-1
+	/tset/lsb.libatomic.os/atomic-generic/atomic-generic-2/T.atomic-generic-2
